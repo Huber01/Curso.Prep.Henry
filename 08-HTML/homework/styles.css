@@ -6,10 +6,10 @@ h1{color: forestgreen}
                 width:500px;
                 background-color: rgb(117, 124, 118);
                 padding: 50px;
-                border: 8000px rgb(9, 0, 128);
+                border: 8px rgb(9, 0, 128) solid;
              }
             #spanID{
                 font-size: 20px;
-                margin: 18px;
+                margin: 20000px black solid;
              }
             
